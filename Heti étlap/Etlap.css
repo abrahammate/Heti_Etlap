@@ -1,0 +1,91 @@
+body {
+    background-color:#EEFF66;
+    margin-left: 365px;
+    margin-right: 365px;
+}
+
+h2{
+    color:#000066;
+    font-family:Monotype Corsiva;
+    text-align:center;
+    margin-bottom: -5px;
+}
+
+a{
+   color:#000066;
+   font-family:Monotype Corsiva
+
+}
+
+
+p{
+    color:#000066;
+    font-family:Monotype Corsiva;
+    margin-bottom: 0px;
+    display: inline-flex;
+}
+
+c{
+    font-size: 120%;
+    font-weight: bolder;
+    color:#000066;
+    font-family: Monotype Corsiva;
+}
+
+a{
+    font-family:Monotype Corsiva;
+    color:#000066;
+}
+
+li{
+    font-weight: lighter;
+    color:#000066;
+    font-family:Monotype Corsiva;
+}
+
+hr{
+    height: 2px;
+        background-color: red;
+        border: none;
+} 
+
+
+#jobbra{
+    float: right;
+    margin-top: -80px;
+}
+
+#balra{
+    float: left;
+}
+
+div{
+    font-size:150%;
+    color: #000066;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center; 
+    width: 75%;
+    font-weight: bolder;
+}
+
+#vékony{
+    height: 1px;
+        background-color: red;
+        border: none;
+}
+
+#zárszó{
+    text-align:center;
+    color: #000066;
+    margin-left: 33%;
+    font-family:Monotype Corsiva;
+    font-size: 120%;
+    margin-top: 0;
+}
+
+#étterem{
+    text-align: right;
+    font-size: 100%;
+    color: #000066;
+    font-family:Monotype Corsiva;
+}
